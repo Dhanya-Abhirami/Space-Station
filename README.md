@@ -6,7 +6,7 @@ Locating International Space Station (ISS) and Astronauts real time
 * It is a multi-nation construction project that is the largest single structure humans ever put into space. 
 ### What this project does? <br>
 * Finding the names of astronauts currently at the ISS
-* Finding the curent location of ISS above the earth
+* Finding the current location of ISS above the earth
 * Plotting the location on the map
 ### API's used
 http://open-notify.org/Open-Notify-API/
