@@ -1,5 +1,5 @@
 # Locate-Me :rocket: :earth_asia:
-Locating International Space Station and Astronauts(ISS) real time
+Locating International Space Station (ISS) and Astronauts real time
 <br>
 ### What is ISS ?
 * The International Space Station (ISS) is a space station, or a habitable artificial satellite, in low Earth orbit.
