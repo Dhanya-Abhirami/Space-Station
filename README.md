@@ -1,4 +1,4 @@
-# Locate-Me :rocket: :earth_asia:
+# Space Station :rocket: :earth_asia:
 Locating International Space Station (ISS) and Astronauts real time
 <br>
 ### What is ISS ?
